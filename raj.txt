@@ -1,1 +1,3 @@
 Hello first git example
+var i =10
+var d = 40
